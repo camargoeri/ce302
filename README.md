@@ -6,3 +6,7 @@ Anotações das aulas de programação em R
 
 -Lembrar de configurar sepre o projeto para que o git 
 carregue no local de trabalho
+
+#Titulo1
+#Titulo2
+#Titulo3
