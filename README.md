@@ -2,7 +2,7 @@
 
 Anotações das aulas de programação em R
 
-`hello friend? i love a friend. that's lame. maybe i should give a name.`
+`hello friend? i love a friend. that's lame. maybe i should give you a name.`
 
 -Lembrar de configurar/carregar sempre o projeto para que o git 
 -carregue no local de trabalho. Sem o arquivo .git o icone do git não fica
